@@ -1,4 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Eduardo</h1>
+<h3 align="center">A Software Engineering Student passionate about technology</h3>
+
+- 🌱 I’m currently learning **about software engineering**
+
+- 🤝 I’m looking for help with **programming and new technologies**
+
+- 📫 How to reach me **eduardo.lucio@sou.inteli.edu.br**
+
+- ⚡ Curiosities: **I love fashion, basketball and cooking**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/eduardo de oliveira lucio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduardo de oliveira lucio" height="30" width="40" /></a>
+<a href="https://instagram.com/duardoozz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="duardoozz" height="30" width="40" /></a>
+</p>
+
+
 
 <!--
 **duardoozz/duardoozz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
