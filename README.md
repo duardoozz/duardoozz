@@ -7,13 +7,14 @@
 
 - 📫 How to reach me **eduardo.lucio@sou.inteli.edu.br**
 
-- ⚡ Curiosities: **I love fashion, basketball and cooking**
+- ⚡ Curiosities **I love fashion, basketball and cooking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/eduardo-de-oliveira-lucio-37b399220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduardo de oliveira lucio" height="30" width="40" /></a>
-<a href="https://instagram.com/duardoozz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="duardoozz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/eduardo-de-oliveira-lucio-37b399220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduardo-de-oliveira-lucio-37b399220" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/duardoozz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/duardoozz/" height="30" width="40" /></a>
 </p>
+
 
 
 
