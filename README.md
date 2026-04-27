@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for help with **programming and new technologies**
 
-- 📫 How to reach me **eduardo.lucio@sou.inteli.edu.br**
+- 📫 How to reach me **edudulucio@gmail.com**
 
 - ⚡ Curiosities **I love fashion, basketball and cooking**
 
