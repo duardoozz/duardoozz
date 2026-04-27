@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eduardo 🇧🇷 </h1>
 <h3 align="center">A Software Engineering Student passionate about technology</h3>
 
-- 🌱 I’m currently learning **about software engineering**
+- 🌱 I’m currently learning **about information system**
 
 - 🤝 I’m looking for help with **programming and new technologies**
 
